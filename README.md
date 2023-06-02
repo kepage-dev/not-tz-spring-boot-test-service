@@ -1,1 +1,1 @@
-# not-tz-test-service
+# not-tz-spring-boot-test-service
